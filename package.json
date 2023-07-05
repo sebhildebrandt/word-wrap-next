@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebhildebrandt/word-wrap.git"
+    "url": "git+https://github.com/sebhildebrandt/word-wrap-next.git"
   },
   "bugs": {
-    "url": "https://github.com/sebhildebrandt/word-wrap/issues"
+    "url": "https://github.com/sebhildebrandt/word-wrap-next/issues"
   },
   "license": "MIT",
   "files": [
