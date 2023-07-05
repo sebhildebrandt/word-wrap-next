@@ -6,6 +6,8 @@
 
 > Wrap words to a specified length.
 
+This is a close of the currently unmaintained npm package `word-wrap`. I decided to maintain this package for now.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
