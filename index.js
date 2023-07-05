@@ -11,7 +11,7 @@ function trimTabAndSpaces(str) {
   return trimmedLines.join('\n');
 }
 
-module.exports = function(str, options) {
+module.exports = function (str, options) {
   options = options || {};
   if (str == null) {
     return str;
@@ -34,7 +34,7 @@ module.exports = function(str, options) {
 
   var re = new RegExp(regexString, 'g');
   var lines = str.match(re) || [];
-  var result = indent + lines.map(function(line) {
+  var result = indent + lines.map(function (line) {
     if (line.slice(-1) === '\n') {
       line = line.slice(0, line.length - 1);
     }

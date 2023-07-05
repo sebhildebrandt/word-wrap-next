@@ -1,12 +1,12 @@
 {
-  "name": "@aashutoshrathi/word-wrap",
+  "name": "word-wrap-next",
   "description": "Wrap words to a specified length.",
-  "version": "1.2.6",
-  "homepage": "https://github.com/aashutoshrathi/word-wrap",
+  "version": "1.2.7",
+  "homepage": "https://github.com/sebhildebrandt/word-wrap-next",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "Aashutosh Rathi <aashutoshrathi@gmail.com>",
-    "Danilo Sampaio <danilo.sampaio@gmail.com> (localhost:8080)",
+    "Danilo Sampaio <danilo.sampaio@gmail.com>",
     "Fede Ramirez <i@2fd.me> (https://2fd.github.io)",
     "Joe Hildebrand <joe-github@cursive.net> (https://twitter.com/hildjj)",
     "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aashutoshrathi/word-wrap.git"
+    "url": "git+https://github.com/sebhildebrandt/word-wrap.git"
   },
   "bugs": {
-    "url": "https://github.com/aashutoshrathi/word-wrap/issues"
+    "url": "https://github.com/sebhildebrandt/word-wrap/issues"
   },
   "license": "MIT",
   "files": [
