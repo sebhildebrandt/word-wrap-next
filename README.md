@@ -6,7 +6,7 @@
 
 > Wrap words to a specified length.
 
-This is a close of the currently unmaintained npm package `word-wrap`. It includes the fix for CVE-2023-26115. I decided to maintain this package for now.
+This is a close of the currently unmaintained npm package `word-wrap`. It includes the fix for [CVE-2023-26115](https://nvd.nist.gov/vuln/detail/CVE-2023-26115). I decided to maintain this package for now.
 
 ## Install
 
