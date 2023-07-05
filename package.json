@@ -1,7 +1,7 @@
 {
   "name": "word-wrap-next",
   "description": "Wrap words to a specified length.",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "homepage": "https://github.com/sebhildebrandt/word-wrap-next",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
