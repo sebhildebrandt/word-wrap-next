@@ -10,6 +10,10 @@ Install with [npm](https://www.npmjs.com/):
 
 ```sh
 $ npm install --save word-wrap-next
+
+// or simpler
+
+$ npm i word-wrap-next
 ```
 
 ## Usage
@@ -124,13 +128,6 @@ wrap(str, {cut: true});
 ```
 
 ## About
-
-### Related projects
-
-* [common-words](https://www.npmjs.com/package/common-words): Updated list (JSON) of the 100 most common words in the English language. Useful for… [more](https://github.com/jonschlinkert/common-words) | [homepage](https://github.com/jonschlinkert/common-words "Updated list (JSON) of the 100 most common words in the English language. Useful for excluding these words from arrays.")
-* [shuffle-words](https://www.npmjs.com/package/shuffle-words): Shuffle the words in a string and optionally the letters in each word using the… [more](https://github.com/jonschlinkert/shuffle-words) | [homepage](https://github.com/jonschlinkert/shuffle-words "Shuffle the words in a string and optionally the letters in each word using the Fisher-Yates algorithm. Useful for creating test fixtures, benchmarking samples, etc.")
-* [unique-words](https://www.npmjs.com/package/unique-words): Return the unique words in a string or array. | [homepage](https://github.com/jonschlinkert/unique-words "Return the unique words in a string or array.")
-* [wordcount](https://www.npmjs.com/package/wordcount): Count the words in a string. Support for english, CJK and Cyrillic. | [homepage](https://github.com/jonschlinkert/wordcount "Count the words in a string. Support for english, CJK and Cyrillic.")
 
 ### Contributing
 
