@@ -1,5 +1,9 @@
 # word-wrap-next
 
+[![NPM version](https://img.shields.io/npm/v/word-wrap-next.svg?style=flat)](https://www.npmjs.com/package/sebhildebrandt/word-wrap-next)
+[![NPM monthly downloads](https://img.shields.io/npm/dm/word-wrap-next.svg?style=flat)](https://npmjs.org/package/sebhildebrandt/word-wrap-next)
+[![NPM total downloads](https://img.shields.io/npm/dt/word-wrap-next.svg?style=flat)](https://npmjs.org/package/sebhildebrandt/word-wrap-next)
+
 > Wrap words to a specified length.
 
 This is a close of the currently unmaintained npm package `word-wrap`. It includes the fix for [CVE-2023-26115](https://nvd.nist.gov/vuln/detail/CVE-2023-26115). I decided to maintain this package for now.
